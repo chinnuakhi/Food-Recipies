@@ -1,0 +1,50 @@
+.header h1{
+    color :white ;
+    
+}
+.nav li{
+list-style-type: none;
+display: inline-block;
+text-decoration-line: none;
+}
+body{
+background: rgba(0,0,0,0.7);
+}
+.header{
+text-align:center;
+background-color: #A52A2A;
+
+}
+.header img{
+
+width : 100px;
+height: 100px;
+position :absolute;
+left:10px;
+top:2px;
+}
+.main-content{
+text-align:center;
+background: white;
+margin:0% 20% 20% 20%;
+}
+.main-content h2{
+color:green;
+}
+.recipes li{
+list-style-type: none;
+text-decoration: none;
+}
+.recipes img {
+width : 90px;
+height : 90px;
+float: left;
+clear:left;
+
+}
+.img1, .img2, .img3, .img4 {
+border : 1px solid black;
+}
+.img1 h3, p{
+padding-left: 10%;
+}

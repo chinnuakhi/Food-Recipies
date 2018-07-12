@@ -1,0 +1,14 @@
+.blackbg{
+    background-color:black;
+}
+.logo{
+    width:5px;
+    height:10px;
+}
+.maroonbg{
+    float:left;
+    width:100px;
+    height:100px;
+    background-color:maroon;
+    
+}
